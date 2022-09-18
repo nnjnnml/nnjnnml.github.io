@@ -1,0 +1,79 @@
+		body {
+			background-color: #121314;
+		}
+		
+		header {
+			padding: 10px 60px 20px 60px;
+				background-color: #141414e0;
+				width: 960px;
+				margin-left: auto;
+				margin-right: auto;
+				box-shadow: 0 0 20px purple;
+				height: 850px;
+		}
+		
+		h1 {
+			color: grey;
+			font-family: Arial;
+		}
+		
+		.menu {
+			display: flex;
+			align-items: center;
+			
+		}
+		
+		.home {
+			color: black;
+			border: 2px solid #141414e0;
+			padding: 10px 20px;
+			border-radius: 26px;
+			background-color: #141414e0;
+			display: inline-block;
+			color: white;
+			text-decoration: none;
+			font-family: Arial;
+			transition: background-color 0.5s;
+		}
+		
+		.test:hover {
+			color: white;
+			background-color: black;
+		}	
+		
+		home {
+			color: white;
+			align-items: middle;
+			display: flex;
+		
+			padding: 0px;
+		}
+		
+		 a.tilelink {
+			color: white;
+			text-decoration: none;
+			padding: 0px;
+		}
+		
+		.Buy {
+			transition: background-color 0.5s
+		}
+		
+		.Buy:hover {
+			background-color: white;
+		}
+		
+		.Buy.tilelink {
+				color: white;
+		}
+		
+		.wybierz {
+			display: flex;
+			margin-left: 20px;
+			justify-content: space-between;
+			margin-top: 20px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		
